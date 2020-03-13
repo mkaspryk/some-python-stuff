@@ -15,7 +15,7 @@ class Car:
             else:
                 raise IllegalCarError("Wrong value assigned to pax_count or car_mass (pax_count must be in the range of 1 to 5 and car_mass must be less than 2000)")
         else:
-            raise IllegalCarError("pax_count must be set to an integer, car_mass to an integer or float and gear_count to an integer")
+            raise IllegalCarError("pax_count must be set to an integer, car_mass to an integer or a float and gear_count to an integer")
 
     # Checks and sets pax_count value
     def _set_pax_count(self,value):
