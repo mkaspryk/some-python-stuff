@@ -1,7 +1,9 @@
 # title: CHAPTER I
+# version: 1.0
 # date: 13/03/2020
 # author: Marcin Grzegorz Kaspryk
 
+# Class represents the car object
 class Car:
 
     # Main constructor of class Car
