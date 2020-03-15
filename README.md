@@ -46,3 +46,11 @@ task.py list --all
 CHAPTER III
 ---------------------------------
 ![](images/password.png)
+
+![](images/password1.1.png)
+
+![](images/password1.2.png)
+
+![](images/CASE1.png)
+
+![](images/CASE1.1.png)
