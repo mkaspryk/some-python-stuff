@@ -45,4 +45,4 @@ task.py list --all
 
 CHAPTER III
 ---------------------------------
-![alt text](https://raw.githubusercontent.com/mkaspryk/some-python-stuff/branch/images/to/password.png)
+![](images/password.png)
