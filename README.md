@@ -45,5 +45,4 @@ task.py list --all
 
 CHAPTER III
 ---------------------------------
-
-![alt text](http://url/to/images/password.png)
+![alt text](https://raw.githubusercontent.com/mkaspryk/some-python-stuff/branch/images/to/password.png)
