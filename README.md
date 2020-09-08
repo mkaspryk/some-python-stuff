@@ -27,12 +27,6 @@ Host name/address: dumbo.db.elephantsql.com
 
 Port: 5432
 
-Maintenance database: noppqwsc
-
-Username: noppqwsc
-
-Password: IEvfoWUwUJEG8PqyZDimIlaNLqVllSUM
-
 run script:
 
 task.py add --name 'Cleaning' --deadline '2020-12-23' --description 'Cleaning home for Christmas' 

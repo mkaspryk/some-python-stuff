@@ -7,9 +7,9 @@
 import psycopg2
 
 # Fields to connect with database
-DB_NAME = "noppqwsc"
-DB_USER = "noppqwsc"
-DB_PASS = "IEvfoWUwUJEG8PqyZDimIlaNLqVllSUM"
+DB_NAME = "name"
+DB_USER = "user"
+DB_PASS = "pass"
 DB_HOST = "dumbo.db.elephantsql.com"
 DB_PORT = "5432"
 
